@@ -1,0 +1,59 @@
+.navbar-brand {
+    padding: 0px;
+}
+
+.navbar-brand {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.glyphicon.glyphicon-search.new {
+    color: #fff;
+}
+
+#button {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.collapse.navbar-collapse.new {
+    position: absolute;
+    top: 5px;
+    left: 60%;
+}
+
+.jumbotron {
+    background-color: #fff;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.jumbotron>h1 {
+    text-align: center;
+    color: #469bde;
+}
+
+.jumbotron>p {
+    text-align: center;
+}
+
+.navbar {
+    margin-bottom: 114px;
+}
+
+.media {
+    margin-bottom: 46px;
+}
+
+.alert {
+    margin-bottom: 0;
+}
+
+#ModalPage {
+    margin-bottom: 20px;
+}
+
+#DropDown,
+.dropdown-menu {
+    margin-bottom: 30px;
+}
